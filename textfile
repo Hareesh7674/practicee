@@ -10,4 +10,6 @@ public class QuotientRemainder {
     System.out.println("Quotient = " + quotient);
     System.out.println("Remainder = " + remainder);
   }
-}
+}IN this file with some changes to be added
+cred_reports
+user monthly reports
